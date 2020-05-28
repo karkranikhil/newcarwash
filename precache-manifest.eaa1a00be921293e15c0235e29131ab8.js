@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd1469542603b4642d5e62ed12ba0d68",
+    "revision": "67d97fc018f90912521dd31c03f963f4",
     "url": "/newcarwash/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/newcarwash/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "00189b2701297369491e",
+    "revision": "53b9f0ca7876fa6e88e2",
     "url": "/newcarwash/static/css/main.43c33696.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/newcarwash/static/js/2.52860325.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "00189b2701297369491e",
-    "url": "/newcarwash/static/js/main.9347def8.chunk.js"
+    "revision": "53b9f0ca7876fa6e88e2",
+    "url": "/newcarwash/static/js/main.e2b9db2a.chunk.js"
   },
   {
     "revision": "579f8ca62e283000981d",
