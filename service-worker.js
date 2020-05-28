@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/newcarwash/precache-manifest.df61845ab5ec10759153fcff62a2576a.js"
+  "/newcarwash/precache-manifest.3aaccbe3deeb78bccc7c44109dd7499b.js"
 );
 
 self.addEventListener('message', (event) => {
