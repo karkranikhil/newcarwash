@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/newcarwash/static/css/main.43c33696.chunk.css",
-    "main.js": "/newcarwash/static/js/main.e2b9db2a.chunk.js",
-    "main.js.map": "/newcarwash/static/js/main.e2b9db2a.chunk.js.map",
+    "main.css": "/newcarwash/static/css/main.0654aea6.chunk.css",
+    "main.js": "/newcarwash/static/js/main.7bf9e5db.chunk.js",
+    "main.js.map": "/newcarwash/static/js/main.7bf9e5db.chunk.js.map",
     "runtime-main.js": "/newcarwash/static/js/runtime-main.1952b472.js",
     "runtime-main.js.map": "/newcarwash/static/js/runtime-main.1952b472.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/newcarwash/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.52860325.chunk.js": "/newcarwash/static/js/2.52860325.chunk.js",
-    "static/js/2.52860325.chunk.js.map": "/newcarwash/static/js/2.52860325.chunk.js.map",
+    "static/css/2.94ad3b50.chunk.css": "/newcarwash/static/css/2.94ad3b50.chunk.css",
+    "static/js/2.9b68dea8.chunk.js": "/newcarwash/static/js/2.9b68dea8.chunk.js",
+    "static/js/2.9b68dea8.chunk.js.map": "/newcarwash/static/js/2.9b68dea8.chunk.js.map",
     "index.html": "/newcarwash/index.html",
-    "precache-manifest.eaa1a00be921293e15c0235e29131ab8.js": "/newcarwash/precache-manifest.eaa1a00be921293e15c0235e29131ab8.js",
+    "precache-manifest.85c859f673b0e16b2c46eb05526dedad.js": "/newcarwash/precache-manifest.85c859f673b0e16b2c46eb05526dedad.js",
     "service-worker.js": "/newcarwash/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/newcarwash/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.43c33696.chunk.css.map": "/newcarwash/static/css/main.43c33696.chunk.css.map",
-    "static/js/2.52860325.chunk.js.LICENSE.txt": "/newcarwash/static/js/2.52860325.chunk.js.LICENSE.txt",
+    "static/css/2.94ad3b50.chunk.css.map": "/newcarwash/static/css/2.94ad3b50.chunk.css.map",
+    "static/css/main.0654aea6.chunk.css.map": "/newcarwash/static/css/main.0654aea6.chunk.css.map",
+    "static/js/2.9b68dea8.chunk.js.LICENSE.txt": "/newcarwash/static/js/2.9b68dea8.chunk.js.LICENSE.txt",
     "static/media/style.css": "/newcarwash/static/media/header-bg.d45fa1d2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1952b472.js",
-    "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.52860325.chunk.js",
-    "static/css/main.43c33696.chunk.css",
-    "static/js/main.e2b9db2a.chunk.js"
+    "static/css/2.94ad3b50.chunk.css",
+    "static/js/2.9b68dea8.chunk.js",
+    "static/css/main.0654aea6.chunk.css",
+    "static/js/main.7bf9e5db.chunk.js"
   ]
 }
