@@ -1,6 +1,9 @@
 .bg-yellow{
     background: #fab700 !important;
 }
+.yellow{
+  color: #fab700
+}
 
 /* Absolute Center Spinner */
 .loading {
@@ -121,3 +124,27 @@
     transform: rotate(360deg);
   }
 }
+
+.radiolabel {
+    width: 100%;
+    font-size: 14px;
+}
+
+.card-input-element {
+    display: none;
+}
+
+.card-input {
+    margin-bottom: 10px;
+       padding: 0.3rem 1rem;
+    box-shadow: 0 0 2px 2px #ffffff
+}
+
+.card-input:hover {
+    cursor: pointer;
+}
+
+.card-input-element:checked + .card-input {
+     box-shadow: 0 0 2px 2px #fab700;
+        padding: 0.3rem 1rem;
+ }

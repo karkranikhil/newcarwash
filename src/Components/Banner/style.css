@@ -6,13 +6,16 @@
     top: 0;
     bottom: 0;
 }
+.yellow{
+  color: #fab700
+}
 .relative {
     position: relative;
 }
 .banner-area {
   background: url(../../images/header-bg.jpg) center;
   background-size: cover;
-  height: 100vh;
+  height: auto;
 }
 
 .banner-area .overlay-bg {
